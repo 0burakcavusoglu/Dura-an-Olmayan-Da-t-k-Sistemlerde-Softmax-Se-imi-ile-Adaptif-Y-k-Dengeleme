@@ -1,2 +1,2 @@
-# Dura-an-Olmayan-Da-t-k-Sistemlerde-Softmax-Se-imi-ile-Adaptif-Y-k-Dengeleme
+Adaptive Load Balancing with Softmax Action Selection in Non-Stationary Distributed Systems
 Hazırlayan Kırklareli Üniversitesi 5230505068 Burak Çavuşoğlu 
